@@ -1,6 +1,6 @@
 # Minimal ES6 Starter
 
->:bullettrain_side: A minimal starter to get up and running with ES6+ features in no time.
+>:bullettrain_side: A bare bones starter to get up and running with ES6+ features in no time.
 
 #### Features:
 - ES6, Stage 0 features "just work"
